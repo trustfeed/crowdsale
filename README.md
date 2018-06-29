@@ -1,3 +1,5 @@
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/trustfeed/crowdsale)
+
 # Trustfeed Crowdsale
 This is a custom crowdsale contract with [OpenZeppelin](https://openzeppelin.org/).
 
